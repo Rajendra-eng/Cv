@@ -81,5 +81,5 @@
       <hr >
 
   <h3><a href="Trainings.html"> Trainings</a></h3>
-  <h3> <a href="Contact.html">Contact Me!!!</a></h3>
+  <h3> <a href="Contact.html">Contact Us</a></h3>
 </html>
